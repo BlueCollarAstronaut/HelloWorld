@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="test_string">This is my test string</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_string">Add</string>
+    <string name="lookup_string">Lookup</string>
+    <string name="remove_string">Remove</string>
+</resources>
